@@ -1,0 +1,33 @@
+[
+
+	{
+		"account": 171020035,
+		"district": [
+			"binhthanh", 10
+		]
+	},
+	{
+		"account": 171020045,
+		"district": [
+			1, 3, 5
+		]
+	},
+	{
+		"account": 171020038,
+		"district": [
+			4, 8
+		]
+	},
+	{
+		"account": 171020010,
+		"district": [
+			1,2,3,4,5,6,7,8,9,10,11,12,"binhtan","tanbinh","phunhuan","govap","mini"
+		]
+	},
+	{
+		"account": 2019, 
+		"district": [
+			1,2,3,4,5,6,7,8,9,10,11,12,"binhtan","tanbinh","phunhuan","govap","mini"
+		]
+	}
+]

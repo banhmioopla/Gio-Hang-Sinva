@@ -1,0 +1,79 @@
+{
+    "menu": [
+        {
+            "name": "Dự Án",
+            "link": "#",
+            "sub": [
+                {
+                    "name": "Dự Án",
+                    "link": "Apartment/Show",
+                    "sub": null
+                }
+            ]
+        },
+        {
+            "name": "Google Drive",
+            "link": "#",
+            "sub": [
+                {
+                    "name": "Ảnh Dự Án",
+                    "link": "GoogleDrive/Show",
+                    "sub": null
+                },
+                {
+                    "name": "Lịch Làm",
+                    "link": "#",
+                    "sub": null
+                }
+            ]
+        },
+        {
+            "name": "Hợp Đồng",
+            "link": "#",
+            "sub": [
+                {
+                    "name": "Hợp Đồng",
+                    "link": "#",
+                    "sub": null
+                },
+                {
+                    "name": "Hợp Đồng Mới",
+                    "link": "#",
+                    "sub": null
+                }
+            ]
+        },
+        {
+            "name": "Xếp Hạng",
+            "link": "#",
+            "sub": [
+                {
+                    "name": "XH Đơn",
+                    "link": "#",
+                    "sub": null
+                },
+                {
+                    "name": "XH Teams",
+                    "link": "#",
+                    "sub": null
+                }
+            ]
+        },
+        {
+            "name": "Tài Khoản",
+            "link": "#",
+            "sub": [
+                {
+                    "name": "Đổi Password",
+                    "link": "User/Show",
+                    "sub": null
+                },
+                {
+                    "name": "Đăng Xuất",
+                    "link": "Login/Show",
+                    "sub": null
+                }
+            ]
+        }
+    ]
+}

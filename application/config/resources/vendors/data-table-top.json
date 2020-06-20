@@ -1,0 +1,5 @@
+[
+	"plugins/datatables/dataTables.bootstrap4.min.css",
+	"plugins/datatables/buttons.bootstrap4.min.css",
+	"plugins/datatables/responsive.bootstrap4.min.css"
+]

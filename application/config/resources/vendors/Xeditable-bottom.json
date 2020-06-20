@@ -1,0 +1,4 @@
+[
+	"plugins/moment/moment.js",
+	"plugins/bootstrap-xeditable/js/bootstrap-editable.min.js"
+]

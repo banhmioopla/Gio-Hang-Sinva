@@ -1,0 +1,11 @@
+[
+	"plugins/datatables/dataTables.buttons.min.js",
+	"plugins/datatables/buttons.bootstrap4.min.js",
+	"plugins/datatables/jszip.min.js",
+	"plugins/datatables/pdfmake.min.js",
+	"plugins/datatables/vfs_fonts.js",
+	"plugins/datatables/buttons.html5.min.js",
+	"plugins/datatables/buttons.print.min.js",
+	"plugins/datatables/dataTables.responsive.min.js",
+	"plugins/datatables/responsive.bootstrap4.min.js"
+]

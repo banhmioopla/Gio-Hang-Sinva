@@ -1,0 +1,4 @@
+[
+	"plugins/datatables/jquery.dataTables.min.js",
+	"plugins/datatables/dataTables.bootstrap4.min.js"
+]
