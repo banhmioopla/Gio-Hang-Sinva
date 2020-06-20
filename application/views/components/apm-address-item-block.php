@@ -53,8 +53,5 @@
             <?php endforeach ?>
             </select>
         </div>
-        <span class="col-lg-1 offset-lg-0 mt-lg-0 col-2 offset-0 mt-1  col-md-1 offset-md-4 <?= $power_lead ?> apartment-delete">
-            <?= $apartment_can_delete_btn_view ?>
-        </span> 
     </div>
 </div>
